@@ -67,11 +67,11 @@ _ps: Em algumas coisas, você é melhor do que muitos programadores sêniores, a
 
 Links:
 
-	- .link http://lynda.com Lynda.com
-	- .link http://pluralsight.com Pluralsight
-	- .link http://casadocodigo.com.br Casa do Código
-	- .link http://nomadev.com.br/webschool-io-uma-escola-online-para-deixar-qualquer-conte%C3%BAdo-aberto-e-gratuito-para-sempre/ WebSchool
-	- .link https://github.com/Webschool-io/be-mean-instagram Curso aprenda a fazer um Instagram
+.link http://lynda.com Lynda.com
+.link http://pluralsight.com Pluralsight
+.link http://casadocodigo.com.br Casa do Código
+.link http://nomadev.com.br/webschool-io-uma-escola-online-para-deixar-qualquer-conte%C3%BAdo-aberto-e-gratuito-para-sempre/ WebSchool
+.link https://github.com/Webschool-io/be-mean-instagram Curso aprenda a fazer um Instagram
 
 * Não tem grana? 
 	- .link http://coursera.com Coursera
