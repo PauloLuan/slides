@@ -12,25 +12,76 @@ http://github.com/pauloluan
 
 .image ./images/avatar.jpg 450 450
 
-TODO: 
+* Sobre a palestra:
 
-- O que as empresas de TI almejam? Software rodando!!!
-- Software rodando? TESTES!!!
-- Testes automatizados antes de programar.
-- Automatize sua infraestrutura (docker, puppet)
-- Automatize suas tarefas (yeoman, node cli, excel(?), macros)
+	- Dicas práticas de como ser bem sucedido mesmo sendo um bosta.
+	- Super palestra de um doutorado em fazer papel de trouxa.
+
+* O que as empresas de TI almejam? 
+
+* $$$ Software rodando $$$
+
+* Software rodando? TESTES!!!
+
+	- Testes automatizados antes de programar.
+	- Automatize sua infraestrutura (docker, puppet)
+	- Automatize suas tarefas (yeoman, node cli, excel(?), macros)
+
+* Preciso ser fodão?
 
 - Você não precisa ser o master dev pra fazer as coisas
-- VAI LÁ E FAZ!	(Bastos, Henrique, 2014)
-- Mas já deve ter isso!
-- Achismo?
-- VAI LÁ E FAZ!	(Bastos, Henrique, 2014)
-- Você é melhor do que muitos programadores sêniores
-- 1 - Foi Efetivo? 2 - Foi Relevante? 3 - No que Desdobrou?
-- Invista 20% das suas economias mensais em educação (lynda.com, pluralsight, casa do código, webschool.io)
-	Ganha 1000? 200 pra educação.
-- Não tem grana? (coursera, lista de cursos no github, livros gratuitos, thepiratebay.se ops)
-- Listas de awesome
+	
+	VAI LÁ E FAZ! (Bastos, Henrique, 2014)
+
+* Mas isso já deve existir!
+
+	Achismo?
+	
+	VAI LÁ E FAZ! (Bastos, Henrique, 2014)
+
+_ps: Em algumas coisas, você é melhor do que muitos programadores sêniores, acredite._
+
+* Onde você quer chegar?
+
+	- "Para quem não sabe para onde vai, qualquer caminho serve"
+	- "Se um homem não sabe a que porto se dirige, nenhum vento lhe será favorável."
+
+	* De nota 7 o mundo já está cheio. * 
+
+* Efetividade e reflexão:
+	
+	1 - Foi Efetivo? 
+	2 - Foi Relevante? 
+	3 - No que Desdobrou?
+
+* Versione seu desenvolvimento
+
+	- Crie repositórios no github para versionar seu desenvolvimento como programador
+	- Crie pastas para as matérias e armazene tudo lá.
+	- Faça cursos e coloque os códigos aprendidos lá (boas empresas já conseguirão te avaliar por lá)
+	- Crie um Linkedin
+
+* Educação:
+
+	- Invista 20% das suas economias mensais em educação (vídeo-aulas, livros, palestras, viagens para seminários)
+
+Links:
+
+	- .link http://lynda.com Lynda.com
+	- .link http://pluralsight.com Pluralsight
+	- .link http://casadocodigo.com.br Casa do Código
+	- .link http://nomadev.com.br/webschool-io-uma-escola-online-para-deixar-qualquer-conte%C3%BAdo-aberto-e-gratuito-para-sempre/ WebSchool
+	- .link https://github.com/Webschool-io/be-mean-instagram Curso aprenda a fazer um Instagram
+
+* Não tem grana? 
+	- .link http://coursera.com Coursera
+	- .link https://github.com/open-source-society/computer-science-and-engineering Path to a free self-taught graduation in Computer Science.
+	- .link https://www.gitbook.com/explore Livros gratuitos (Git book)
+	- .link http://thepiratebay.se PirateBay	
+	
+* Como saber os recursos de uma tecnologia:
+	
+	- Listas de awesome
 
 
 
