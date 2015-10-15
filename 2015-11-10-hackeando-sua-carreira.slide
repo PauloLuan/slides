@@ -26,10 +26,11 @@ http://github.com/pauloluan
 
 * $$$ Software rodando $$$
 
-* Software rodando? TESTES!!!
+* O que é mais importante pra eu aprender pro mundo real?
 
-- Testes automatizados antes de programar.
-- Automatize sua infraestrutura (docker, puppet)
+- Debugger
+- Testes automatizados (TDD, BDD, unitários, integração) 
+- TESTES SÃO MAIS IMPORTANTES QUE TUDO
 - Automatize suas tarefas (yeoman, node cli, excel(?), macros)
 
 * Preciso ser fodão?
@@ -43,8 +44,6 @@ VAI LÁ E FAZ! (Bastos, Henrique, 2014)
 Achismo?
 
 VAI LÁ E FAZ! (Bastos, Henrique, 2014)
-
-
 
 ps: Em algumas coisas, você é melhor do que muitos programadores sêniores, acredite.
 
