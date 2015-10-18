@@ -29,19 +29,8 @@ http://github.com/pauloluan
 
 * Sobre a palestra:
 
-- Princípio de Pareto (80-20), 
+- Princípio de Pareto (80-20)
 - 80% das consequências advêm de 20% das causas
-
-* O que as empresas de TI almejam? 
-
-* $$$ Software rodando $$$
-
-* O que é mais importante pra eu aprender pro mundo real?
-
-- Debugger
-- Testes automatizados (TDD, BDD, unitários, integração) 
-- TESTES SÃO MAIS IMPORTANTES QUE TUDO
-- Automatize suas tarefas (yeoman, node cli, excel(?), macros)
 
 * Preciso ser fodão?
 
@@ -104,3 +93,16 @@ Links:
 
 .link http://pt.wikihow.com/Fazer-uma-Pergunta-Inteligentemente Wikihow sobre como fazer perguntas
 .link http://www.fabrica10.com.br/projetos/comofazerperguntasinteligentes.html Como fazer Perguntas Inteligentes
+
+* O que as empresas de TI almejam? 
+
+* $$$ Software rodando $$$
+
+* O que é mais importante pra eu aprender pro mundo real?
+
+- Debugger
+- Testes automatizados (TDD, BDD, unitários, integração) 
+- TESTES SÃO MAIS IMPORTANTES QUE TUDO
+- Automatize suas tarefas (yeoman, node cli, excel(?), macros)
+- (Case da Atento)
+
