@@ -8,19 +8,19 @@ pauloluan.inova@gmail.com
 
 * Software Engineer at CI&T
 
-.image ./images/ciet.png 500 200
+.image ./images/ciet.png 200 500
 	
 * Formado em Banco de Dados Fatec SJC
 
-.image ./images/fatec.png 450 200
+.image ./images/fatec.png 200 450
 
 * Apaixonado por motos esportivas
 
-.image ./images/ninja.png 1280 720
+.image ./images/ninja.png 720 1280 
 
 * Motociclista Amador aos fins de semana
 
-.image ./images/bandit.png 1280 720
+.image ./images/bandit.png 720 1280 
 
 * Sobre a palestra:
 
@@ -80,7 +80,7 @@ Lucas: Cara, se eu fosse resumir a vida:
 
 * Github
 
-.image ./images/github.jpg 400 234
+.image ./images/github.jpg 234 400 
 
 - Crie repositórios no github para versionar seu desenvolvimento como programador
 - Crie pastas para as matérias da faculdade e armazene tudo lá.
@@ -88,7 +88,7 @@ Lucas: Cara, se eu fosse resumir a vida:
 
 * Linkedin 
 
-.image ./images/linkedin.png 1280 237
+.image ./images/linkedin.png 237 1280
 
 * Educação:
 
